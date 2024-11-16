@@ -9,4 +9,11 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Xiaomi" model="Redmi note" releaseYear="2020">
+	<specs>
+		<screenSize unit="inch">5</screenSize>
+		<batteryCapacity unit="mAh">1000></batteryCapacity>
+		<storage unit="GB">64</storage>
+		<camera unit="MP"<32</camera>
+    </smartphone>
 </smartphones>
