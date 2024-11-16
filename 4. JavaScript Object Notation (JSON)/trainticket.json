@@ -1,0 +1,23 @@
+{
+    "nameonTicket": "Piotr",
+    "price": 5.14,
+    "studentDiscount": true,
+    "trainDetails": {
+        "train_number": "SKA2384",
+        "train_name": "Koleje Malopolskie"
+    },
+    "departureDetails": {
+        "station": "Krakow Glowny",
+        "date": "25-10-2024",
+        "time": "20:34"
+    },
+    "arrivalDetails": {
+        "station": "Miechow",
+        "date": "25-10-2024"
+    },
+    "seat": {
+        "selected": false
+    },
+    "expressTravel": false,
+    "expires": "25-10-2024"
+}
